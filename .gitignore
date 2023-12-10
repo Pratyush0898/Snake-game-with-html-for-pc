@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Development files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+*.log
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Compiled files
+*.min.js
+*.min.css
+
+# Dependency directories
+bower_components/
